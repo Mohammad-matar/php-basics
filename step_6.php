@@ -3,7 +3,7 @@ function calculateArea() {
     $height= 5;
     $width = 3;
     $area= $height * $width ;
-    echo "$area"; 
+    echo "$area"; // we should print insite the function
 }
-calculateArea() 
+calculateArea() // call the function
 ?>
