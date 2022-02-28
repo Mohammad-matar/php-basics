@@ -7,7 +7,7 @@ function power($input)
     }
    else
     {
-		return "$input is not power of 2";
+      return "$input is not power of 2";
     }
 }
 echo(Power(4)."\n");
